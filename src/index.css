@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'Sage-Runic';
-  src: url('Sage-Runic.eot');
-  src: url('Sage-Runic.woff') format('woff'),
-  url('Sage-Runic.ttf') format('truetype'),
-  url('Sage-Runic.svg#Sage-Runic') format('svg');
+  src: url('./assets/Sage-Runic.eot');
+  src: url('./assets/Sage-Runic.woff') format('woff'),
+  url('./assets/Sage-Runic.ttf') format('truetype'),
+  url('./assets/Sage-Runic.svg#Sage-Runic') format('svg');
 }
 
 @tailwind base;
